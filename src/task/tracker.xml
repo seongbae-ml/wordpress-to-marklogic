@@ -1,0 +1,17 @@
+<items>
+	<item>
+		<collection>www.marklogic.com</collection>
+		<post_type>blog</post_type>
+		<latest_entry>Fri, 17 Apr 2009 12:00:15 +0000</latest_entry>
+	</item>
+	<item>
+		<collection>world.marklogic.com</collection>
+		<post_type>blog</post_type>
+		<latest_entry>Fri, 17 Apr 2009 12:00:15 +0000</latest_entry>
+	</item>
+	<item>
+		<collection>www.disruptivesoftworks.com</collection>
+		<post_type>blog</post_type>
+		<latest_entry>Fri, 17 Apr 2009 12:00:15 +0000</latest_entry>
+	</item>
+</items>
